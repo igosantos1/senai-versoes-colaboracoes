@@ -3,3 +3,5 @@ Repositório de versões e colaborações
 
 
 teste teste teste teste
+
+lembrei do comando: git commit
